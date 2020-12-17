@@ -7,3 +7,5 @@
 3. combine_lyrics_season.py file loops through all episode files in each folder and combines them into one file containing all Sheldon's lines for a certain series.
 
 4. frequency.py file contains the code that we originally wrote to form a customized word cloud, but it doesn't work out well. 
+
+5. scatter.ipynb contains the code for creating scatterplots, plotting the best fit line and calculating the summary stats.
